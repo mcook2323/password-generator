@@ -20,4 +20,4 @@ Here are two screen shots of the live website including a screenshot of the page
 
 ## Live Link to Website
 
-[Password Generator]() 
+[Password Generator](https://mcook2323.github.io/password-generator/) 
